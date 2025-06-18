@@ -33,6 +33,24 @@ I’m a junior 3D Artist from Pyatigorsk, Russia. After 11+ years of experience 
 ## Location  
 🇷🇺 Pyatigorsk, Russia | Ready to relocate or travel occasionally  
 
+## 📁 My Repositories
+
+A selection of my 3D modeling works and portfolio scenes, including dioramas, stylized props, and sci-fi assets. Click to explore each project on GitHub:
+
+- [🔗 mushroom-house-lowpoly](https://github.com/RgAnna/mushroom-house-lowpoly)
+- [🔗 sky-gas-station-lowpoly](https://github.com/RgAnna/sky-gas-station-lowpoly)
+- [🔗 wild-robot-3d-models](https://github.com/RgAnna/wild-robot-3d-models)
+- [🔗 bottle-presentation-diorama](https://github.com/RgAnna/bottle-presentation-diorama)
+- [🔗 street_diorama_scene](https://github.com/RgAnna/street_diorama_scene)
+- [🔗 cow-quest-3d-scene](https://github.com/RgAnna/cow-quest-3d-scene)
+- [🔗 metal_old_barrel](https://github.com/RgAnna/metal_old_barrel)
+- [🔗 vintage-teaset-3d](https://github.com/RgAnna/vintage-teaset-3d)
+- [🔗 sci-fi-asset](https://github.com/RgAnna/sci-fi-asset)
+- [🔗 concrete_fence_3d](https://github.com/RgAnna/concrete_fence_3d)
+- [🔗 wooden_military_crate](https://github.com/RgAnna/wooden_military_crate)
+- [🔗 RgAnna (main profile)](https://github.com/RgAnna/RgAnna)
+
+
 ## Contact Me  
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/RgAnna_Art)
@@ -75,6 +93,24 @@ I’m a junior 3D Artist from Pyatigorsk, Russia. After 11+ years of experience 
 
 ## Локация  
 🇷🇺 Пятигорск, Россия | Готова к переезду и редким командировкам  
+
+## 📁 Мои репозитории
+
+Подборка моих 3D-проектов: стилизованные ассеты, диорамы, сцены и sci-fi объекты. Нажмите, чтобы перейти к каждому репозиторию на GitHub:
+
+- [🔗 mushroom-house-lowpoly](https://github.com/RgAnna/mushroom-house-lowpoly)
+- [🔗 sky-gas-station-lowpoly](https://github.com/RgAnna/sky-gas-station-lowpoly)
+- [🔗 wild-robot-3d-models](https://github.com/RgAnna/wild-robot-3d-models)
+- [🔗 bottle-presentation-diorama](https://github.com/RgAnna/bottle-presentation-diorama)
+- [🔗 street_diorama_scene](https://github.com/RgAnna/street_diorama_scene)
+- [🔗 cow-quest-3d-scene](https://github.com/RgAnna/cow-quest-3d-scene)
+- [🔗 metal_old_barrel](https://github.com/RgAnna/metal_old_barrel)
+- [🔗 vintage-teaset-3d](https://github.com/RgAnna/vintage-teaset-3d)
+- [🔗 sci-fi-asset](https://github.com/RgAnna/sci-fi-asset)
+- [🔗 concrete_fence_3d](https://github.com/RgAnna/concrete_fence_3d)
+- [🔗 wooden_military_crate](https://github.com/RgAnna/wooden_military_crate)
+- [🔗 RgAnna (основной профиль)](https://github.com/RgAnna/RgAnna)
+
 
 ## Контакты  
 
