@@ -33,7 +33,7 @@ I’m a junior 3D Artist from Pyatigorsk, Russia. After 11+ years of experience 
 ## Location  
 🇷🇺 Pyatigorsk, Russia | Ready to relocate or travel occasionally  
 
-## 📁 My Repositories
+##  My Repositories
 
 A selection of my 3D modeling works and portfolio scenes, including dioramas, stylized props, and sci-fi assets. Click to explore each project on GitHub:
 
@@ -93,7 +93,7 @@ A selection of my 3D modeling works and portfolio scenes, including dioramas, st
 ## Локация  
 🇷🇺 Пятигорск, Россия | Готова к переезду и редким командировкам  
 
-## 📁 Мои репозитории
+##  Мои репозитории
 
 Подборка моих 3D-проектов: стилизованные ассеты, диорамы, сцены и sci-fi объекты. Нажмите, чтобы перейти к каждому репозиторию на GitHub:
 
