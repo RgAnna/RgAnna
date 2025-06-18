@@ -35,6 +35,8 @@ I’m a junior 3D Artist from Pyatigorsk, Russia. After 11+ years of experience 
 
 ##  My Repositories
 
+![Project Preview](https://github.com/RgAnna/RgAnna/blob/main/Collage_02.png)
+
 A selection of my 3D modeling works and portfolio scenes, including dioramas, stylized props, and sci-fi assets. Click to explore each project on GitHub:
 
 - [🔗 mushroom-house-lowpoly](https://github.com/RgAnna/mushroom-house-lowpoly)
@@ -94,6 +96,8 @@ A selection of my 3D modeling works and portfolio scenes, including dioramas, st
 🇷🇺 Пятигорск, Россия | Готова к переезду и редким командировкам  
 
 ##  Мои репозитории
+
+![Project Preview](https://github.com/RgAnna/RgAnna/blob/main/Collage_02.png)
 
 Подборка моих 3D-проектов: стилизованные ассеты, диорамы, сцены и sci-fi объекты. Нажмите, чтобы перейти к каждому репозиторию на GitHub:
 
