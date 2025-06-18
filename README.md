@@ -48,7 +48,6 @@ A selection of my 3D modeling works and portfolio scenes, including dioramas, st
 - [🔗 sci-fi-asset](https://github.com/RgAnna/sci-fi-asset)
 - [🔗 concrete_fence_3d](https://github.com/RgAnna/concrete_fence_3d)
 - [🔗 wooden_military_crate](https://github.com/RgAnna/wooden_military_crate)
-- [🔗 RgAnna (main profile)](https://github.com/RgAnna/RgAnna)
 
 
 ## Contact Me  
@@ -109,7 +108,7 @@ A selection of my 3D modeling works and portfolio scenes, including dioramas, st
 - [🔗 sci-fi-asset](https://github.com/RgAnna/sci-fi-asset)
 - [🔗 concrete_fence_3d](https://github.com/RgAnna/concrete_fence_3d)
 - [🔗 wooden_military_crate](https://github.com/RgAnna/wooden_military_crate)
-- [🔗 RgAnna (основной профиль)](https://github.com/RgAnna/RgAnna)
+  
 
 
 ## Контакты  
