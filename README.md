@@ -6,7 +6,7 @@
 I’m a junior 3D Artist from Pyatigorsk, Russia. After 11+ years of experience in public sector finance and document handling, I’ve retrained as a 3D modeler for GameDev. I specialize in optimized low-poly asset creation with a focus on clean topology, correct UVs, texel density, PBR texturing, and engine compatibility.
 
 ## Core Skills  
-- 3D Modeling: Blender, ZBrush (basic), Substance Painter  
+- 3D Modeling: Blender, Substance Painter  
 - UV Mapping: Manual unwrap, texel density, non-overlapping layout  
 - Texturing: PBR (Metal/Rough), baking maps, use of wear & edge detailing  
 - Rendering & Engines: Unreal Engine 5 (basic asset check & import)  
@@ -49,7 +49,7 @@ I’m a junior 3D Artist from Pyatigorsk, Russia. After 11+ years of experience 
 Я начинающий 3D-художник из Пятигорска. После более чем 11 лет опыта в сфере финансов и документооборота я прошла переквалификацию и теперь занимаюсь созданием low-poly моделей для геймдева. Специализируюсь на оптимизированной топологии, корректной UV-развёртке, texel density, текстурировании по PBR и подготовке ассетов под игровые движки.
 
 ## Основные навыки  
-- Моделинг: Blender, ZBrush (базово), Substance Painter  
+- Моделинг: Blender, Substance Painter  
 - Развёртка UV: ручная, контроль texel density, развёртки без наложений  
 - Текстурирование: PBR (Metal/Rough), запекание карт, износ, царапины  
 - Движки: Unreal Engine 5 (проверка ассетов, базовый импорт)  
