@@ -34,7 +34,7 @@ I’m a junior 3D Artist from Pyatigorsk, Russia. After 11+ years of experience 
 🇷🇺 Pyatigorsk, Russia | Ready to relocate or travel occasionally  
 
 ## Contact Me  
-anna.gnigay@gmail.com (preferred)  
+
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/RgAnna_Art)
 [![VK](https://img.shields.io/badge/-VK-4C75A3?style=flat&logo=vk&logoColor=white)](https://vk.com/rganna_art)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-rogova-487090370/)
@@ -77,7 +77,7 @@ anna.gnigay@gmail.com (preferred)
 🇷🇺 Пятигорск, Россия | Готова к переезду и редким командировкам  
 
 ## Контакты  
-anna.gnigay@gmail.com (предпочтительно)  
+
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/RgAnna_Art)
 [![VK](https://img.shields.io/badge/-VK-4C75A3?style=flat&logo=vk&logoColor=white)](https://vk.com/rganna_art)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-rogova-487090370/)
