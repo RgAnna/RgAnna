@@ -1,6 +1,6 @@
 # GitHub Profile — RgAnna
 
-![Project Preview](https://github.com/RgAnna/RgAnna/blob/main/Four%20Rectangle%20Collage%20Blank.png)
+![Project Preview](https://github.com/RgAnna/RgAnna/blob/main/20Collage.png)
 
 ## About Me  
 I’m a junior 3D Artist from Pyatigorsk, Russia. After 11+ years of experience in public sector finance and document handling, I’ve retrained as a 3D modeler for GameDev. I specialize in optimized low-poly asset creation with a focus on clean topology, correct UVs, texel density, PBR texturing, and engine compatibility.
